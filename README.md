@@ -26,8 +26,8 @@ def conv_exp(input, kernel, terms=10):
     return result
 
 
-def inv_conv_exp(input, kernel, terms=10, dynamic_truncation=0, verbose=False):
-    return conv_exp(input, -kernel, terms, dynamic_truncation, verbose)
+def inv_conv_exp(input, kernel, terms=10):
+    return conv_exp(input, -kernel, terms)
 ```
 
 
