@@ -116,6 +116,6 @@ python experiment_sylvester_network.py --n_levels 3 --n_subflows 8 --n_intermedi
 ```
 
 
-#### Acknowlegdements
+#### Acknowledgements
 The Robert Bosch GmbH is acknowledged for financial support.
 
