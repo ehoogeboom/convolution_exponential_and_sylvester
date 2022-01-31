@@ -1,5 +1,5 @@
 future~=0.18.2
-Pillow~=7.1.2
+Pillow
 numpy~=1.16.2
 pytz~=2020.1
 Cython~=0.29.21
