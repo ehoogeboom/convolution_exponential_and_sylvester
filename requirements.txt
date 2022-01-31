@@ -18,5 +18,3 @@ networkx~=2.5
 PyYAML~=5.3.1
 tifffile~=2020.9.3
 tensorboardX~=2.0
-pip~=19.0.3
-wheel~=0.34.2
